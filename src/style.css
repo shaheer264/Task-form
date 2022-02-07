@@ -1,0 +1,32 @@
+* {
+    margin : 1%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.form {
+    padding-left: 1%;
+    padding-bottom: 1.8%;
+}
+.text-field {
+    padding: 0.5%;
+    text-align: center;
+}
+#name-input {
+    margin-left: 2.6%;
+}
+#age-input {
+    margin-left: 3.8%;
+}
+#weight-input {
+    margin-left: 2.15%;
+}
+#Button {
+    background-color: white;
+    padding: 0.7%;
+    padding-right: 3%;
+    padding-left: 2.2%;
+    margin-top: 3%;
+}
+.Result {
+    margin-left: 1%;
+    padding-left: 2%;
+}
